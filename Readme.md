@@ -16,4 +16,4 @@ For this analysis you need to have python installed and have the following libra
 
 ## Run the code
 To run the code, you can use the file ```myapp5.py``` in your python editor. Since this code is an app you need to deploy it by streamlit. 
-If you need information on installing the streamlit by anaconda please visit: -[streamlit installation by anaconda](https://anaconda.org/conda-forge/streamlit). 
+If you need information on installing the streamlit by anaconda please visit: [streamlit installation by anaconda](https://anaconda.org/conda-forge/streamlit). 
